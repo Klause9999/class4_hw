@@ -1,1 +1,1 @@
-klause9999.github.io/class4_hw
+https://klause9999.github.io/class4_hw/
