@@ -1,0 +1,32 @@
+.mid{
+	background: red;
+	border: black;
+	border-radius: 10px;
+	height: 50%;
+	width: 50%;
+	margin: 0;
+	margin-bottom: 50px;
+	padding-bottom: 3px;
+	padding-top: 3px;
+	padding-left:40px ;
+	padding-right: 40px;
+}
+p{
+	font-size: 20px;
+}
+h1{
+	color: darkcyan;
+	font-family: sans-serif;
+	position: absolute;
+	left: 650px;
+	top: 120px;
+	background: black;
+	padding: 30px;
+	border-radius: 30px;
+
+}
+.fx{
+	position: absolute;
+	left: 525px;
+	top: 400px;
+}

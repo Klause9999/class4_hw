@@ -1,0 +1,9 @@
+.cui{
+	background-color:red;
+	border-radius: 20px;
+	position: absolute;
+	left: 650px;
+	top: 350px;
+	font-family: sans-serif;
+	padding: 50px;
+}

@@ -1,0 +1,107 @@
+*{
+	text-decoration: none;
+}
+nav{
+	border-radius: 20px;
+}
+body{
+	background: url(../img/castle.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+.navbar{
+	background: red;
+	font-family: calibri;
+	top: 20px;
+	position: absolute;
+	right: 470px;
+	width: 1000px;
+	margin: 0;
+	padding: 0;
+}
+.navdiv{
+	display: flex;
+	width: 100%;
+	align-items: center;
+	justify-content: space-between;
+}
+li{
+	list-style: none;
+	display: inline-block;
+}
+.un{
+	color: white;
+	font-size: 18px;
+	font-weight: bold;
+	margin-right: 25px;
+	position: relative;
+	left: 565px;
+}
+.un:after{
+	content: "";
+	position: absolute;
+	background-color: darkgreen;
+	height: 3px;
+	width: 0%;
+	left: 0;
+	bottom: -7px;
+	transition: 0.5s;
+}
+.un:hover:after{
+	width: 100%;
+}
+.btn1,.btn2{
+	background-color: black;
+	margin-left: 35px;
+	border-radius: 10px;
+	padding: 10px;
+	width: 90px;
+	position: relative;
+	left: 660px;
+	color: white;
+	font-weight: bold;
+	font-size: 15px;
+	top: -3px;
+
+}
+.midd{
+	position: relative;
+	top: 300px;
+	font-family: calibri;
+}
+ul{
+	position: relative;
+	right: 400px;
+}
+.mid{
+	color: darkred;
+}
+h1{
+	font-size: 80px;
+}
+h2{
+	font-size: 40px;
+}
+.btn3{
+	position: relative;
+	top: 350px;
+	padding: 30px;
+	border: solid darkcyan;
+	background-color: darkorange;
+	color: darkred;
+	border-radius: 50px;
+	font-size: 30px;
+	font-family:calibri;
+}
+.hm{
+	position: relative;
+	left: 390px;
+	font-family: calibri;
+	font-size: 35px;
+	top: 3px;
+}
+.seofx{
+	width: 50%;
+}
