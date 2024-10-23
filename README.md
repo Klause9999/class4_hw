@@ -1,2 +1,1 @@
-# class4_hw
-This is homework for 4th class
+klause9999.github.io/class4_hw
